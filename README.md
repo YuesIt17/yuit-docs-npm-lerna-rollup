@@ -1,6 +1,6 @@
 # Project Npm package lerna + rollup + jfrog
 
-📝Here is [**my article**](https://dev.to/eugene_yues_17/how-to-create-an-npm-packages-using-rollupjs-lernajs-jfrog-artifactory-2g80) about the settings of this application
+## 📝Here is 👉 [**my article**](https://dev.to/eugene_yues_17/how-to-create-an-npm-packages-using-rollupjs-lernajs-jfrog-artifactory-2g80) about the settings of this application
 
 #### Preparation
 
